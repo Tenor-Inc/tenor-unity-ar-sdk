@@ -1,6 +1,8 @@
 # Tenor Unity SDK
 
-The Tenos Unity  SDK makes it easy to integrate the Tenor API endpoints into your Unity project. Library provides simple programming methods and classes for making requests to Tenor web services.
+The Tenor Unity SDK provides the code necessary to integrate Tenor GIFs in your AR application in a matter of minutes. Tenor's search and APIs deliver the most relevant and engaging GIFs, letting you and your users integrate GIFs in creative ways. This library provides simple programming methods and classes for making requests to [Tenor's APIs](http://tenor.com/gifapi).
+
+![alt text](https://imgur.com/xDiHhSr.png)
 
 ## Getting started
 
