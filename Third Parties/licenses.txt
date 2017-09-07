@@ -1,0 +1,4 @@
+﻿For more information about license, please refer to below links:
+
+- UniGif : https://github.com/WestHillApps/UniGif
+- Google Monserrat Font : http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web
